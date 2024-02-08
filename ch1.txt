@@ -1,1 +1,1 @@
-This is the first chapter in test for git commits.
+This is the first chapter in branched test for git commits.
