@@ -1,0 +1,1 @@
+This is part 3 of whatever sample git setup staging we're doing. As we proceed with tests.
